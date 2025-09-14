@@ -7,7 +7,7 @@ A **React-based web application** that allows users to adjust the tone of their 
 ---
 
 ## 🌟 Live Deployment
-- **Application URL**: [Tone Picker Tool](https://fiddle-text-tone-picker.netlify.app/)
+- **Application URL**: [Tone Picker Tool](https://text-tone-picker.netlify.app/)
 - **Backend API**: [Backend Service](https://tone-picker-backend.onrender.com)
 
 
